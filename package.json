@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^1.7.14",
+    "react-transition-group": "^4.4.5"
+  }
+}
